@@ -4,12 +4,12 @@
   "generated_at": "2026-11-26T12:34:12+00:00",
   "hero_count": 134,
   "matchups": {
-    "url": "https://raw.githubusercontent.com/Tasneem-Qureshi/mlcounterpicks/data/matchups.json",
+    "url": "https://raw.githubusercontent.com/Tasneem-Qureshi/app-static-data/main/matchups.json",
     "sha256": "f73935f425c69009e16b2ceac91b43fc4adb1d7aa3e5eabe7b5d3dcd8178d9de",
     "bytes": 1221382
   },
   "templates": {
-    "url": "https://raw.githubusercontent.com/Tasneem-Qureshi/mlcounterpicks/data/templates.zip",
+    "url": "https://raw.githubusercontent.com/Tasneem-Qureshi/app-static-data/main/templates.zip",
     "sha256": "cbf87eec3de50748ac1fd17a2c972bfeeb00b5e918978749bf86c1036ff6ec99",
     "bytes": 7120575
   }
