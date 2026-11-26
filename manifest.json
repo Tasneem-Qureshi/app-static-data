@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "data_version": 1795696452,
-  "generated_at": "2026-11-26T12:34:12+00:00",
+  "data_version": 1795712819,
+  "generated_at": "2026-11-26T17:06:59+00:00",
   "hero_count": 134,
   "matchups": {
     "url": "https://raw.githubusercontent.com/Tasneem-Qureshi/app-static-data/main/matchups.json",
-    "sha256": "f73935f425c69009e16b2ceac91b43fc4adb1d7aa3e5eabe7b5d3dcd8178d9de",
-    "bytes": 1221382
+    "sha256": "c967114ce95a0e659b50535db23eb2631861b79e860e6f1af90bdce788ff0939",
+    "bytes": 1034485
   },
   "templates": {
     "url": "https://raw.githubusercontent.com/Tasneem-Qureshi/app-static-data/main/templates.zip",
-    "sha256": "cbf87eec3de50748ac1fd17a2c972bfeeb00b5e918978749bf86c1036ff6ec99",
+    "sha256": "44a5f8347548c2a9642ee4712c22405440003663c3eaee03ee9aab190e9033ce",
     "bytes": 7120575
   }
 }
